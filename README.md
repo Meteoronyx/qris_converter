@@ -2,6 +2,7 @@
 ## Overview
 
 This BOT is to convert Static QRIS to Dynamic QRIS with a certain nominal value using the Telegram Bot
+<a href="https://gifyu.com/image/bLVm7"><img src="https://s4.gifyu.com/images/bLVm7.gif" alt="WhatsApp Video 2025 05 06 at 14.12.01 d865cce7" border="0" /></a>
 
 
 ## Requirements
