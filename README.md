@@ -2,6 +2,7 @@
 ## Overview
 
 This BOT is to convert Static QRIS to Dynamic QRIS with a certain nominal value using the Telegram Bot
+
 <a href="https://gifyu.com/image/bLVm7"><img src="https://s4.gifyu.com/images/bLVm7.gif" alt="WhatsApp Video 2025 05 06 at 14.12.01 d865cce7" border="0" /></a>
 
 
@@ -39,7 +40,6 @@ This BOT is to convert Static QRIS to Dynamic QRIS with a certain nominal value 
 ## Functionality
 
 *   **`/start`**:  Starts the bot and displays a welcome message.
-*   **`/generate_qris`**: Initiates the QRIS code generation process.  The bot will likely prompt you for information such as the amount, recipient, or other relevant details needed to create the QRIS code.
 
 ## Contributing
 
